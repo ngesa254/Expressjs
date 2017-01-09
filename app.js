@@ -8,7 +8,7 @@ var app = express();
 
 app.get('/', function (req, res){
 
-res.send('Yo Gang! Here is an awesome page! There are many more like this.');
+res.send('Yoh Gang! Here is an awesome page! There are many more like this.');
 
 });
 
