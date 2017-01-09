@@ -1,5 +1,7 @@
 
-//Require express
+/*Welcome to app.js file
+I use this file for tutorials at my publication: https://medium.com/iot-5g-extreme-ideas-lab
+*/
 var express = require ('express');
 
 var app = express();
